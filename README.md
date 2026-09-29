@@ -69,7 +69,7 @@ programação e criação de projetos digitais.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:TEU-EMAIL">
+<a href="mailto:2025192357@ulo.pt">
 <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
