@@ -1,41 +1,18 @@
 <div align="center">
 
-  <!-- Banner Superior -->
-  <img src="URL_DA_TUA_IMAGEM_DE_BANNER" alt="Header Cosmos" width="100%" />
+<!-- Banner Dinâmico Cósmico em Estilo Neon/Onda -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c10,50:1a1b26,100:7aa2f7&height=220&section=header&text=Guilherme%20Bernardo%20Dias&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20%26%20Networking%20Student%20%7C%20Tech%20Explorer&descSize=16&descAlignY=62" width="100%" />
 
-  <br />
-  <br />
+# 🚀 Welcome to my Digital Cosmos 🌌
 
-  <!-- Título principal -->
-  <h1>🚀 Welcome to my Digital Cosmos 🌌</h1>
+```text
+  _   _   _   _   _   _   _   _   _ 
+ / \ / \ / \ / \ / \ / \ / \ / \ / \
+( C | y | b | e | r | s | p | a | c | e )
+ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/
 
-</div>
-
-<hr />
-
-## 👤 About me
-I'm a passionate developer building modern web applications and exploring new technologies.
-
-- 🚀 **Always learning**
-- 💻 **Open source enthusiast**
-- 🎯 **Clean code advocate**
-
-<br />
-
-## 🛠️ Tech stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
-
-<br />
-
-## 📊 GitHub stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherdias-botlane&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+astronaut: Guilherme Bernardo Dias
+location: Portugal
+focus: Cybersecurity, Computer Networks & Linux Systems
+interests: Shell Scripting, Automation, Web Dev & Systems Admin
+motto: "Constantly learning and building secure digital infrastructure."
