@@ -1,7 +1,7 @@
 <!-- Para usar como GitHub Profile README, cria um repositório chamado Guiberdias-botlane. -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:070b1a,35:172554,70:4c1d95,100:0891b2&height=210&section=header&text=Ol%C3%A1,%20sou%20o%20Guilherme%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20A%20construir%20coisas%20%C3%BAteis%20para%20a%20web&descSize=14&descAlignY=65" alt="Olá, sou o Guilherme. Software Developer." width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:160b2b,25:582050,50:e34d78,75:8b2d7d,100:1b1035&height=210&section=header&text=Ol%C3%A1,%20sou%20o%20Guilherme%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20A%20construir%20coisas%20%C3%BAteis%20para%20a%20web&descSize=14&descAlignY=65" alt="Olá, sou o Guilherme. Software Developer." width="100%" />
 
   <a href="https://github.com/Guiberdias-botlane">
     <img src="https://img.shields.io/badge/GitHub-Guiberdias--botlane-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -58,4 +58,3 @@ Ainda não tenho projetos publicados. Estas são algumas ideias que gostaria de 
   <img src="https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?auto=format&fit=crop&w=1600&h=220&q=85" alt="Nebulosa e estrelas numa faixa panorâmica" width="100%" />
   <sub>A aprender, a construir e a explorar — um commit de cada vez.</sub>
 </div>
-
