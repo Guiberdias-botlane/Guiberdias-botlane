@@ -58,5 +58,6 @@ Ainda não tenho projetos publicados. Estas são algumas ideias que gostaria de 
 ---
 
 <div align="center">
+  <img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1600&h=260&q=85" alt="A Terra vista do espaço" width="100%" />
   <sub>A aprender, a construir e a explorar — um commit de cada vez.</sub>
 </div>
