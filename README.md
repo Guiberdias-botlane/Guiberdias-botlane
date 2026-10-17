@@ -1,39 +1,38 @@
 <!-- Para usar como GitHub Profile README, cria um repositório chamado Guiberdias-botlane. -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:160b2b,25:582050,50:e34d78,75:8b2d7d,100:1b1035&height=210&section=header&text=Ol%C3%A1,%20sou%20o%20Guilherme%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20A%20construir%20coisas%20%C3%BAteis%20para%20a%20web&descSize=14&descAlignY=65" alt="Olá, sou o Guilherme. Software Developer." width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:160b2b,25:582050,50:e34d78,75:8b2d7d,100:1b1035&height=210&section=header&text=Ol%C3%A1,%20sou%20o%20Guilherme%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%26%20Networks%20Student%20%E2%80%A2%20Homelabs%20%26%20Scripts&descSize=14&descAlignY=65" alt="Olá, sou o Guilherme. Cibersegurança e Redes." width="100%" />
 
   <a href="https://github.com/Guiberdias-botlane">
     <img src="https://img.shields.io/badge/GitHub-Guiberdias--botlane-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Portugal-Exploring%20the%20web-2563EB?style=flat-square&logo=googleearth&logoColor=white" alt="Portugal, a explorar a web" />
+  <img src="https://img.shields.io/badge/Portugal-Cybersecurity%20%26%20Networks-2563EB?style=flat-square&logo=googleearth&logoColor=white" alt="Portugal, Cibersegurança e Redes" />
+  <img src="https://img.shields.io/badge/English-B2%20First%20Certificate-green?style=flat-square&logo=cambridge" alt="Inglês B2" />
 </div>
 
 ---
 
 ## Sobre mim
 
-Sou um developer com interesse em tecnologia, resolução de problemas e criação de experiências digitais. Gosto de aprender ferramentas novas e transformar ideias em projetos funcionais, claros e bem construídos.
+Estudante de **Cibersegurança e Redes Informáticas**, focado em administração de sistemas, redes, análise de segurança e automação. Tenho um forte interesse em resolução de problemas, análise de vulnerabilidades e exploração prática de ambientes e redes seguras.
 
-- 💻 Focado no desenvolvimento web
-- 🌱 Sempre a aprender e a explorar novas tecnologias
-- ✨ Interessado em projetos criativos e úteis
+- 🛡️ **Focado em:** Cibersegurança, Administração de Redes & Sistemas Linux
+- 🌐 **Idiomas:** Português (Nativo), Inglês (B2 First Certificate)
+- 💡 **Interesses:** Homelabs, Análise de Vulnerabilidades (OWASP), Scripts de Automação e Redes
 
-## Tecnologias
+## Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Python e Git" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,networking,c,html,css,git,vscode,vmware&theme=dark" alt="Linux, Bash, Python, Networking, C, HTML, CSS, Git, VSCode, VMware" />
 </div>
 
-## Ideias para projetos
+## Projetos & Homelabs
 
-Ainda não tenho projetos publicados. Estas são algumas ideias que gostaria de explorar:
-
-| Ideia | O que gostaria de criar |
-| --- | --- |
-| Gestor de tarefas | Uma aplicação simples para organizar tarefas e acompanhar o progresso. |
-| Guia de programação | Um espaço com apontamentos e recursos para apoiar a aprendizagem de desenvolvimento web. |
-| Notas digitais | Uma forma prática de guardar ideias e organizar notas por tema. |
+| Projeto / Lab | Descrição | Tecnologias |
+| --- | --- | --- |
+| **Linux & Services Lab** | Configuração e documentação de servidores DNS (BIND), SSH seguro e serviços Web em ambientes Linux. | Linux, BIND, SSH, Bash |
+| **Network & Security Scans** | Scripts de automatização em Python para reconhecimento e verificação de segurança de rede. | Python, Sockets, Nmap |
+| **AppSec & Vulnerability Demos** | Documentação e demonstração prática de mitigação de vulnerabilidades comuns da OWASP. | OWASP, Web Security, Markdown |
 
 ## Estatísticas GitHub
 
@@ -56,5 +55,5 @@ Ainda não tenho projetos publicados. Estas são algumas ideias que gostaria de 
 
 <div align="center">
   <img src="https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?auto=format&fit=crop&w=1600&h=220&q=85" alt="Nebulosa e estrelas numa faixa panorâmica" width="100%" />
-  <sub>A aprender, a construir e a explorar — um commit de cada vez.</sub>
+  <sub>A aprender, a proteger e a explorar — um commit de cada vez.</sub>
 </div>
